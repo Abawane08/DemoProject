@@ -1,0 +1,15 @@
+[INFO ] 2021-02-09 18:08:31.179 [main] BaseClass - chromedriver is launched
+[DEBUG] 2021-02-09 18:08:31.201 [main] ListenerTest - I am in onStart test folder named Test
+[INFO ] 2021-02-09 18:08:33.584 [main] BaseClass - Ämazon Url is launched
+[INFO ] 2021-02-09 18:08:34.193 [main] BaseClass - driver loading....
+[DEBUG] 2021-02-09 18:08:34.238 [main] ListenerTest - I am in onTestStart test folder named FunctionalFow
+[INFO ] 2021-02-09 18:08:35.011 [main] HomePage - Actual Page Title is:Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2021-02-09 18:08:35.032 [main] Flow - page title verified
+[INFO ] 2021-02-09 18:08:37.441 [main] Flow - Search functionality is verified
+[INFO ] 2021-02-09 18:08:37.977 [main] SearchPage - Product is selected
+[INFO ] 2021-02-09 18:08:38.020 [main] SearchPage - New tab is launched
+[INFO ] 2021-02-09 18:08:38.020 [main] Flow - Product selection functionality is verified
+[INFO ] 2021-02-09 18:08:44.009 [main] ProductPage - Buy now botton functionality is working as expected
+[INFO ] 2021-02-09 18:08:44.015 [main] Flow - buy Now button functionality is verified
+[DEBUG] 2021-02-09 18:08:44.737 [main] BaseClass - closeDriver - Attempting to close the driver
+[DEBUG] 2021-02-09 18:08:46.203 [main] ListenerTest - I am in onFinish test folder named Test

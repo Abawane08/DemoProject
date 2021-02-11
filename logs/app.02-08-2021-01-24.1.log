@@ -1,0 +1,8 @@
+[INFO ] 2021-02-08 01:24:53.768 [main] BaseClass - chromedriver is launched
+[DEBUG] 2021-02-08 01:24:53.787 [main] ListenerTest - I am in onStart test folder named Test
+[INFO ] 2021-02-08 01:24:56.343 [main] BaseClass - Ämazon Url is launched
+[INFO ] 2021-02-08 01:24:56.793 [main] BaseClass - driver loading....
+[DEBUG] 2021-02-08 01:24:56.836 [main] ListenerTest - I am in onTestStart test folder named HomePageFunctional
+[INFO ] 2021-02-08 01:24:56.874 [main] HomePage - Actual Page Title is:Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2021-02-08 01:24:56.876 [main] Flow - page title verified
+[DEBUG] 2021-02-08 01:24:59.003 [main] BaseClass - closeDriver - Attempting to close the driver
